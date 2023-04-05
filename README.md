@@ -1,2 +1,2 @@
 # Team11
-Random player picker for Cricket
+Random Cricket player picker with multiple roles 
